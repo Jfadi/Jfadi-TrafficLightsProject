@@ -1,10 +1,10 @@
 # Jfadi-TrafficLightsProject
 
 This project is a traffic light controller for a 4-corner intersection of two equally busy one-way streets using the EK-TM4C123GXL microcontroller.
-There are two one-way streets are labeled South (cars travel South) and West (cars travel West). There are three inputs to the EK-TM4C123GXL, detecting cars:
-• South sensor: traveling south going straight,
-• Rt Turn sensor: traveling south making a right turn to the west direction, and
-• West sensor: traveling west.
+There are two one-way streets are labeled South (cars travel South) and West (cars travel West). There are three inputs to the EK-TM4C123GXL, detecting cars:\
+• South sensor: traveling south going straight,\
+• Rt Turn sensor: traveling south making a right turn to the west direction, and\
+• West sensor: traveling west.\
 
 
 # Pictures
