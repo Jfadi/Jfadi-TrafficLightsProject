@@ -8,7 +8,9 @@ There are two one-way streets are labeled South (cars travel South) and West (ca
 
 
 # Pictures
+• FSM:\
 ![FSM](https://user-images.githubusercontent.com/58842964/196007713-39c22d8d-f53b-43f2-b940-85b4062ccccd.png)
+• Board setup:\
 ![Board](https://user-images.githubusercontent.com/58842964/196007722-bae00735-9f5f-4b7c-a286-4d40088968af.jpg)
 
 # Video 
